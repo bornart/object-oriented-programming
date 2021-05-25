@@ -9,7 +9,7 @@
 
 ## Forms of Teaching
 1. _Lectures_
-2. _laboratory exersizes_
+2. _Laboratory exersizes_
 3. _Homeworks_
 4. _Exams_
 
