@@ -14,12 +14,12 @@
 4. _Exams_
 
 ## Week by Week Schedule
-1. Introduction. Apache Maven tool.
-2. Classes. Test-driven development.
-3. Interfaces.
-4. Java Generics.
-5. Java collection framework (1).
-6. Functional Interfaces. Java collection framework (2).
+1. Introduction. Apache Maven tool
+2. Classes. Test-driven development
+3. Interfaces
+4. Java Generics
+5. Java collection framework (1)
+6. Functional Interfaces. Java collection framework (2)
 7. Files (1)
 8. Files (2)
 9. Multithreaded applications (1)
